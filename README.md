@@ -38,3 +38,6 @@ Within your SPL project's minting logic (as per Lesson Three), make the necessar
 Thoroughly test the entire setup by transferring or minting your SPL token to a Phantom account. Utilize the UI to mint NFTs, ensuring a seamless process for users paying in the designated SPL token.
 
 Feel free to reach out for further assistance or clarification. Happy minting!
+
+## Thanks
+### Harsh Gupta
